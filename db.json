@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "checked": true,
+      "id": 1,
+      "item": "a"
+    },
+    {
+      "id": 2,
+      "checked": true,
+      "item": "b"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "df"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "fs"
+    },
+    {
+      "id": 5,
+      "checked": true,
+      "item": "sdf"
+    }
+  ]
+}
